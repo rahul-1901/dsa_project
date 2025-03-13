@@ -15,7 +15,7 @@ string trim(const string &str)
     return s;
 }
 
-// Convert string to lowercase
+// Convert string to lowercase's
 string toLowercase(const string &str)
 {
     string s = str;
